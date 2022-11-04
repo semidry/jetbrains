@@ -1,0 +1,6 @@
+<keymap version="1" name="Windows 副本" parent="$default">
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+</keymap>
